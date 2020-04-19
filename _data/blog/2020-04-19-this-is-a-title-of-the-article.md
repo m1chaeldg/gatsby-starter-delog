@@ -1,6 +1,6 @@
 ---
 template: BlogPost
-path: this is a path
+path: this-is-the-slug
 date: 2020-04-19T12:19:35.096Z
 title: This is a title of the article
 thumbnail: /assets/image-1.jpg
